@@ -1,0 +1,47 @@
+/* Write your CSS code here */
+.main-heading {
+  color: #00e7ff;
+  font-family: Roboto;
+  text-align: center;
+}
+
+.currency-logo {
+  width: 500px;
+}
+.image-container {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.list-heading {
+  height: 40px;
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  font-family: Roboto;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.currency {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.coin-style {
+  margin-left: 25px;
+}
+.currency-container {
+  border: 3px solid #00e7ff;
+  border-radius: 10px;
+}
+.currency-list {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

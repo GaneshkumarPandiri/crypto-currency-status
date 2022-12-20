@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.logo-style {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+}
+.currency-item {
+  display: flex;
+  font-family: Roboto;
+  color: #ffffff;
+  justify-content: space-between;
+}
